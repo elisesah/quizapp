@@ -1,0 +1,44 @@
+[{
+        "question": "What do I prefer ?",
+        "choice1": "Yellow",
+        "choice2": "Pink",
+        "answer": 1
+    },
+    {
+        "question": "What do I prefer ?",
+        "choice1": "Reading",
+        "choice2": "Netflixing",
+        "answer": 1
+    },
+    {
+        "question": "What do I prefer now at this moment?",
+        "choice1": "Jobbe",
+        "choice2": "Ta meg med på ferie pls",
+        "answer": 2
+    },
+    {
+        "question": "What am I ?",
+        "choice1": "Super Sweet",
+        "choice2": "Crazy and Innocent ofc ;)",
+        "answer": 2
+    },
+    {
+        "question": "What am i ?",
+        "choice1": "Overthinker",
+        "choice2": "Living in the moment",
+        "answer": 1
+    },
+    {
+        "question": "Is this Quiz cool ?",
+        "choice1": "YEEESSSS SUPER COOL",
+        "choice2": "IM AWESOME, NO MATTER WHAT YOU THINK ;)",
+        "answer": 2
+    },
+    {
+        "question": "Who Is The Coolest Girl Alive On This Planet ?",
+        "choice1": "Elise Is",
+        "choice2": "Yeah, you're right I am haha",
+        "answer": 2
+    }
+
+]
